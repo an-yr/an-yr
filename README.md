@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi 👋 I'm Angela Yuri! 
 
-<!--
-**an-yr/an-yr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👩‍💻 Front-end developer in progress
+- 🍀Environmental Engineering student
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I like german hip-hop and k-pop
 
-Here are some ideas to get you started:
+## Oi 👋 Sou a Angela Yuri! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👩‍💻 Desenvolvedora Front-end em andamento
+- 🍀Estudante de Engenharia Ambiental
+- 😄 Pronomes: ela/dela
+- ⚡ Fato engraçado: Eu gosto de hip-hop alemão e k-pop
